@@ -5,6 +5,7 @@ import profileData from '../data/profile.json';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import image from '../assets/Profile.jpeg'
+import Resume from '../assets/Resume1.pdf'
 
 const Profile = () => {
   const [profile, setProfile] = useState(null);
@@ -96,7 +97,7 @@ const Profile = () => {
             {/* Buttons */}
             <div className="flex flex-wrap gap-4 pt-4">
               <a
-                href={profile.resume}
+                href={Resume}
                 download
                 className="px-8 py-3 bg-gradient-to-r from-blue-500 to-purple-600 text-white rounded-full font-semibold shadow-lg hover:shadow-xl transform hover:scale-105 transition-all flex items-center gap-2"
               >
