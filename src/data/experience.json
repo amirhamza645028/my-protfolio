@@ -1,0 +1,50 @@
+{
+  "experiences": [
+     {
+      "id": 3,
+      "position": "Junior Web Developer",
+      "company": "European It Solution",
+      "location": "Noor Mansion (3rd Floor),Mirpur-10,Dhaka, Bangladesh",
+      "type": "Internship",
+      "startDate": " Aug 2025  ",
+      "endDate": "Dec 2025",
+      "responsibilities": [
+        "Assisted in developing web applications using HTML, CSS, and JavaScript, React.js ,Node.js , Express.js,MongoDB",
+        "Fixed bugs and improved website performance",
+        "Learned agile development methodologies",
+        "Participated in daily stand-ups and sprint planning"
+      ]
+    },
+    {
+      "id": 1,
+      "position": "IT Support Technician (BMET Certified)",
+      "company": "TTC Shariatpur",
+      "location": "Shariatpur,Dhaka, Bangladesh",
+      "type": "Full Time",
+      "startDate": "Jan 2023",
+      "endDate": "Apri 2023",
+      "responsibilities": [
+  "Provided technical support for computer hardware, software, and network issues.",
+  "Installed and configured operating systems and essential applications.",
+  "Assisted users with basic troubleshooting and IT-related support.",
+  "Performed routine system maintenance and security checks."
+]   },
+    {
+  "id": 1,
+  "position": "Python Backend Developer",
+  "company": "European IT Solution",
+  "location": "Noor Mansion (3rd Floor), Mirpur-10, Dhaka, Bangladesh",
+  "type": "Internship",
+  "startDate": "September 2025",
+  "endDate": "November 2025",
+  "responsibilities": [
+    "Developed and maintained RESTful APIs using Python (FastAPI/Django) for web applications.",
+    "Worked with databases to design models and perform CRUD operations efficiently.",
+    "Implemented authentication and authorization mechanisms using JWT and secure password handling.",
+    "Collaborated with frontend developers and team members to integrate backend services and optimize performance."
+  ]
+  }
+
+   
+  ]
+}

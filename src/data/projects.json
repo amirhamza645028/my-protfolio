@@ -1,0 +1,92 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-commerce Website",
+      "description": "A full-stack e-commerce platform with user authentication, product management, cart functionality, and payment integration.",
+      "image": "../assets/final-project-Adminpanel.png",
+      "technologies": ["React", "Node.js", "MongoDB", "Express", "Stripe"],
+      "features": [
+        "User Authentication & Authorization",
+        "Product Search & Filter",
+        "Shopping Cart & Wishlist",
+        "Payment Integration with Stripe",
+        "Admin Dashboard"
+      ],
+      "liveLink": "https://final-project-bistro-boss-client.vercel.app/",
+      "codeLink": "https://github.com/amirhamza645028/Final-project-bistro-boss-client",
+      "category": "Full Stack"
+    },
+    {
+      "id": 2,
+      "title": "SkillUp Academy",
+      "description": "A React-based StudyHub application with drag-and-drop functionality, priority settings, and deadline tracking.",
+      "image": "/images/projects/task-app.jpg",
+      "technologies": ["React", "Firebase", "Tailwind CSS", "DnD Kit"],
+      "features": [
+        "Student and instructor role-based authentication system",
+        "Course and class management with structured modules",
+        "Interactive quizzes with instant result feedback",
+        "Responsive and modern user interface design"
+      ],
+      "liveLink": "https://educational-project-m7f7.onrender.com/",
+      "codeLink": "https://github.com/amirhamza645028/ProjectEducational",
+      "category": "Frontend"
+    },
+{
+  "id": 3,
+  "title": "Hospital Management System (CLI-Based)",
+  "description": "A comprehensive terminal-based hospital management system designed to handle patient records, doctor prescriptions, medicine inventory, sales, and appointment scheduling using Python backend architecture.",
+  "image": "/images/projects/hospital-management.png",
+  "technologies": [
+    "Python",
+    "Pydantic",
+    "BaseModel",
+    "CLI",
+    "File Handling / Data Persistence"
+  ],
+  "features": [
+    "Doctor and manager role-based system operations",
+    "Patient registration and serial management",
+    "Prescription creation and medical history tracking",
+    "Medicine inventory management and sales system"
+  ],
+  "liveLink": "",
+  "codeLink": "https://github.com/amirhamza645028/Hospital_managment_Project",
+  "category": "CLI "
+      },
+     {
+      "id": 4,
+      "title": "SkillUp Academy",
+      "description": "A React-based StudyHub application with drag-and-drop functionality, priority settings, and deadline tracking.",
+      "image": "/images/projects/task-app.jpg",
+      "technologies": ["React", "Firebase", "Tailwind CSS", "DnD Kit"],
+      "features": [
+        "Student and instructor role-based authentication system",
+        "Course and class management with structured modules",
+        "Interactive quizzes with instant result feedback",
+        "Responsive and modern user interface design"
+      ],
+      "liveLink": "https://hamza5028.github.io/Assingment-3/",
+      "codeLink": "https://github.com/hamza5028/Assingment-3",
+      "category": "Frontend"
+    },
+    {
+      "id": 5,
+      "title": "Toure-travel",
+      "description": "A React-based StudyHub application with drag-and-drop functionality, priority settings, and deadline tracking.",
+      "image": "/images/projects/task-app.jpg",
+      "technologies": ["React", "Firebase", "Tailwind CSS", "DnD Kit"],
+      "features": [
+        "Student and instructor role-based authentication system",
+        "Course and class management with structured modules",
+        "Interactive quizzes with instant result feedback",
+        "Responsive and modern user interface design"
+      ],
+      "liveLink": "https://hamza5028.github.io/Responsive-website/",
+      "codeLink": "https://github.com/hamza5028/Responsive-website",
+      "category": "Frontend"
+    }
+
+  ]
+}

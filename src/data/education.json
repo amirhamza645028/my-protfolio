@@ -1,0 +1,54 @@
+{
+  "educations": [
+    {
+      "id": 1,
+      "degree": "Diploma in Engineering",
+      "institution": "Faridpur Polytechnic Institute, Faridpur.",
+      "duration": "2022-2023",
+      "grade": "GPA: 3.93(7th)",
+      "type": "education"
+    },
+    {
+      "id": 2,
+      "title": "Programming Club",
+      "institution": "Faridpur Polytechnic Institute Computer Programming Club (FPI CPC)",
+      "duration": "2023-2025",
+      "details": "Team Work, Programming Contest, Technical Workshops",
+      "type": "education"
+    },
+    {
+      "id": 3,
+      "degree": "Higher School Certificate(Science)",
+      "institution": "Krishapur High school,krishnapur,Faridpur ",
+      "duration": "2020-2021",
+      "grade": "GPA: 4.64",
+      "type": "education"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Complete Web Development Course",
+      "provider": "Programing Hero.",
+      "duration": "December 2023 - December 2024",
+      "certificate": true,
+      "certificateLink": "https://drive.google.com/file/d/1teht2HYghkiYolnw5PF8yc8gwp6AabXb/view?usp=sharing"
+    },
+    {
+      "id": 2,
+      "title": "Communication Hacks",
+      "provider": "10 Minute School",
+      "duration": "June 2024 - July 2024",
+      "certificate": true,
+      "certificateLink": "https://10minuteschool.com/certificate/68adcc5c89578"
+    },
+    {
+      "id": 3,
+      "title": "Email Writing",
+      "provider": "10 Minute School",
+      "duration": "June 2024 - July 2024",
+      "certificate": true,
+      "certificateLink": "https://lms10.s3.ap-southeast-1.amazonaws.com/skillup/certificates/69305f3b75c41.pdf"
+    }
+  ]
+}
