@@ -3,8 +3,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './index.css';
-import MainLayout from '../../my-protfolio/src/Layout/MainLayout';
-import Experience from '../../my-protfolio/src/component/Experience';
+// import MainLayout from '../../my-protfolio/src/Layout/MainLayout';
+import Experience from './component/Experience';
 import Projects from '../../my-protfolio/src/component/Projects';
 import Profile from '../../my-protfolio/src/component/Profile';
 import Education from '../../my-protfolio/src/component/Education';
@@ -14,6 +14,7 @@ import Footer from '../../my-protfolio/src/component/Footer';
 import Home from './component/Home';
 import Contact from './component/Contact';
 import Achievement from './component/Achievement';
+import MainLayout from './Layout/MainLayout'
 
 
 
